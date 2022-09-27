@@ -1,0 +1,4 @@
+Gradle Commands
+
+Check dependency insight for a library
+./gradlew dependencyInsight --dependency org.apache.logging.log4j:log4j-core --configuration runtimeClasspath
